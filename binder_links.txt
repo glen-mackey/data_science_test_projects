@@ -2,6 +2,6 @@ Links to project builds in Binder
 Plots don't look as good as downloading and running locally, but you can interact with file remotely.
 To interact with notebook I have had to "Reset Kernel and Run All"
 
-K_Means_AIC_Example.ipynb
+K_means_clustering/K_Means_AIC_Example.ipynb
 https://mybinder.org/v2/gh/glen-mackey/data_science_test_projects/master/K_means_clustering?labpath=K_Means_AIC_Example.ipynb
 
