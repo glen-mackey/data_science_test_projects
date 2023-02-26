@@ -3,5 +3,5 @@ Plots don't look as good as downloading and running locally, but you can interac
 To interact with notebook I have had to "Reset Kernel and Run All"
 
 K_means_clustering/K_Means_AIC_Example.ipynb
-https://mybinder.org/v2/gh/glen-mackey/data_science_test_projects/blob/master/K_means_clustering?labpath=K_Means_AIC_Example.ipynb
+https://mybinder.org/v2/gh/glen-mackey/data_science_test_projects/master/K_means_clustering?labpath=K_Means_AIC_Example.ipynb
 
