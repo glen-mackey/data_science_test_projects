@@ -5,3 +5,11 @@ plotly
 seaborn
 matplotlib
 ipywidgets
+
+scipy
+itertools
+math
+pprint
+tqdm
+joblib
+functools
