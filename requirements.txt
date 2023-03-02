@@ -7,7 +7,6 @@ matplotlib
 ipywidgets
 
 scipy
-math
 pprint
 tqdm
 joblib
