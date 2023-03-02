@@ -5,3 +5,6 @@ To interact with notebook I have had to "Reset Kernel and Run All"
 K_means_clustering/K_Means_AIC_Example.ipynb
 https://mybinder.org/v2/gh/glen-mackey/data_science_test_projects/master?labpath=K_means_clustering%2FK_Means_AIC_Example.ipynb
 
+
+hyper_param_tuning/denoising/hyper_param_search_demo.ipynb
+https://mybinder.org/v2/gh/glen-mackey/data_science_test_projects/master?labpath=hyper_param_tuning%2Fdenoising%2Fhyper_param_search_demo.ipynb
