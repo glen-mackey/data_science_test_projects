@@ -9,4 +9,3 @@ ipywidgets
 scipy
 tqdm
 joblib
-functools
